@@ -9,7 +9,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://media.licdn.com/dms/image/D4D12AQFscCu_T0xB3A/article-cover_image-shrink_423_752/0/1688794846091?e=1724889600&v=beta&t=uxO-anVIuh_Wm38cS7wSVuBEswQ0nDWWd4AqVQLtvIw">
 </div>
  
 <br>
