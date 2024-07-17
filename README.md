@@ -13,7 +13,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="  https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
 </div>
  
