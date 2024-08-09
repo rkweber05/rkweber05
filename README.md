@@ -39,12 +39,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rkweber05/count.svg?"  />
-</div>
-
-###
-
 <div> 
   <a href="https://www.instagram.com/_weber05?igsh=b3dlOTdkMXh0dzFy&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/rkweber05" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
