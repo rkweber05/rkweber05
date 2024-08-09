@@ -45,18 +45,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=rkweber05&theme=gruvbox" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rkweber05/rkweber05/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
 <div> 
   <a href="https://www.instagram.com/_weber05?igsh=b3dlOTdkMXh0dzFy&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/rkweber05" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
