@@ -1,4 +1,5 @@
-<p align="left">Hi 👋! My name is Rodrigo, I'm from Brazil and my goal is to become a great professional in the field of systems development.</p>
+<p align="left">Hi 👋! </p>
+<p align="left">My name is Rodrigo, I'm from Brazil and my goal is to become a great professional in the field of systems development. </p>
 
 ###
 
