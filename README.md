@@ -10,15 +10,6 @@ My main experience is with <strong>PHP (Laravel)</strong> and <strong>Golang</st
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkweber05&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkweber05&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
-
----
-
 ### 🛠️ Backend & APIs
 
 <div align="left">
@@ -81,7 +72,7 @@ My main experience is with <strong>PHP (Laravel)</strong> and <strong>Golang</st
 ### 🌎 Connect with me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-kunzler-weber-0b9b5a273/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-kweber/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rkweber05@outlook.com">
